@@ -11,7 +11,7 @@
 	<context:component-scan base-package="com.taobao.search.service"/>
 	-->
 	<!-- 扫描包加载Service实现类 -->
-	<context:component-scan base-package="com.taotao.search">
+	<context:component-scan base-package="com.taobao.search">
 		<context:exclude-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
 	</context:component-scan>
 </beans>

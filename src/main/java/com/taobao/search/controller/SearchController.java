@@ -13,14 +13,14 @@ import com.taobao.common.utils.ExceptionUtil;
 import com.taobao.search.pojo.SearchResult;
 import com.taobao.search.service.SearchService;
 
-/**
+
+/***
  * 商品查询Controller
- * <p>Title: SearchController</p>
- * <p>Description: </p>
- * <p>Company: www.itcast.com</p> 
- * @author	入云龙
- * @date	2015年9月11日下午4:22:42
- * @version 1.0
+ * <p>Title：</p>
+ * <p>Description： </p>
+ * <p>Company：朝阳财富 </p>
+ * @author 胡建培
+ * @date 2016年11月28日 上午9:18:32
  */
 @Controller
 public class SearchController {

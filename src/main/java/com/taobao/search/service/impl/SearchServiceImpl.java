@@ -9,14 +9,14 @@ import com.taobao.search.pojo.SearchResult;
 import com.taobao.search.service.SearchService;
 
 
-/**
+
+/***
  * 搜索Service
- * <p>Title: SearchServiceImpl</p>
- * <p>Description: </p>
- * <p>Company: www.itcast.com</p> 
- * @author	入云龙
- * @date	2015年9月11日下午4:07:53
- * @version 1.0
+ * <p>Title：</p>
+ * <p>Description： </p>
+ * <p>Company：朝阳财富 </p>
+ * @author 胡建培
+ * @date 2016年11月28日 上午12:04:21
  */
 @Service
 public class SearchServiceImpl implements SearchService {
